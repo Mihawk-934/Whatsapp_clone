@@ -1,4 +1,4 @@
-# # WhatsApp_clone
+# WhatsApp_clone
 Création d'un clone whatsApp.
 
 ## Pour lancer l'application

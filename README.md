@@ -11,6 +11,7 @@ Création d'un clone whatsApp.
 * React
 * Node
 * CSS3
+* Material UI
 * Firebase
 * Pusher_socket
 * Axios
